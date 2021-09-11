@@ -1,1 +1,1 @@
-print("hello world")
+print("sum",5+6)
